@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PaulLipska
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data science with Coding Dojo
 - 💞️ I’m looking to collaborate on anything, try me.
 - 📫 How to reach me ...here.
 
